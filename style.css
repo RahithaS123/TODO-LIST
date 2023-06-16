@@ -1,6 +1,9 @@
 body{
     background: url("/images/pic2.jpg");
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    
 }
 
 .regform{
